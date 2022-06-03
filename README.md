@@ -97,7 +97,7 @@ These instructions will help you set up the project locally and proceed with som
 
 * Clone the repo
    ```sh
-   git clone https://github.com/Deharteloos/appium-testng-cucumber-framework.git
+   git clone https://github.com/FabienBMW/kikuu_appium_test.git
    ```
 * Rename the file `config.properties.template` to `config.properties` and update the property `app` according to the location of the app you want to test. Or add the necessary desired capabilities.
 
